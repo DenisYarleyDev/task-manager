@@ -1,5 +1,6 @@
 <h1>Gerenciador de Tarefas React</h1>
-DESENVOLVIDO POR: DENISYARLEYDEV 24/01/2025 <br>
+DESENVOLVIDO POR: DENISYARLEYDEV <br>
+24/01/2025 <br>
 LINK: https://task-manager-liard-five.vercel.app/ <br>
 
 DESENVOLVIDO EM REACT, REACT-ROUTER E TAILWIND CSS PARA ESTILIZAÇÃO <br>
